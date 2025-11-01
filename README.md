@@ -13,7 +13,7 @@
 
 ---
 
-## 🧭 Sobre Mim
+## 💫 Sobre Mim
 
 Sou **Desenvolvedora Backend** com paixão por tecnologia, boas práticas e arquitetura de software.  
 Atualmente curso **Análise e Desenvolvimento de Sistemas na FIAP**, onde aprofundo meus conhecimentos em **Java, C# e Python**, além de fundamentos sólidos em **banco de dados, cloud e APIs modernas**.
@@ -116,7 +116,7 @@ Meu objetivo é evoluir constantemente e criar códigos que facilitem a vida das
 
 ## 💬 Frase que me inspira
 
-> “Código limpo é aquele que expressa a intenção de quem o escreveu.”  
+>  “O impossível é apenas o possível que ainda não foi feito.”  
 
 ---
 
